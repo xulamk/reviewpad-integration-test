@@ -1,0 +1,3 @@
+# Reviewpad Integration Test
+
+Integration testing is an essential part of ensuring the quality of a product or software. It is a type of verification testing that helps to ensure that all components of a system are working together correctly. With integration testing, it is possible to identify any discrepancies or errors in the communication between components. It is also an important tool for identifying potential areas of improvements or areas that need further development.
