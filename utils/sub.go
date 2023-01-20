@@ -2,10 +2,8 @@
 // Use of this source code is governed by a license that can be
 // found in the LICENSE file.
 
-// @reviewpad-an: critical
-
 package utils
 
-func Add(x, y int) int {
-	return y + x
+func Sub(x, y int) int {
+	return x - y
 }
